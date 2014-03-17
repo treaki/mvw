@@ -1,0 +1,19 @@
+Projektanforderungen/TODO:
+(Diese Datei dient zum Sammeln der Anforderungen und Erstellung einer ToDo-Liste und bietet somit eine Übersicht über die Projektziele/Projektkonzept)
+
+Diese Informationen sind aus dritter Hand (von treaki) bitte um Korrektur/Vervollständigung.
+
+Must have:
+
+* Loginbereich (Session Cookie)
+* Formulare generieren
+  * Datenbank
+    * Formulare
+      * Referenznummer
+* Per Tastatur steuerbar (cli?)
+
+
+
+Nice to have ("Ausbaustufe 3"):
+
+* Webservice zur automatischen Generierung von Mitgliedsanträgen durch neue Mitglieder welche dann nur noch unterschrieben werden müssen...
